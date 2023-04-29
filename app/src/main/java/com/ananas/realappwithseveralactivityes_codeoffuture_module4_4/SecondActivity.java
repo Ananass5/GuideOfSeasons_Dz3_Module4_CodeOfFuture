@@ -36,7 +36,9 @@ public class SecondActivity extends AppCompatActivity {
         seasonList.add(new Season("Март", "Тоже холодно, но теплее", R.drawable.img));
         seasonList.add(new Season("Апрель", "Весна пришла", R.drawable.spring));
         seasonList.add(new Season("Май", "Прям очень тепло", R.drawable.img_1));
+        seasonList.add(new Season("Июнь", "Лето началось", R.drawable.img_2));
         seasonList.add(new Season("Июль", "Весьма жарко", R.drawable.summer));
+        seasonList.add(new Season("Август", "Скоро осень", R.drawable.img_3));
         seasonList.add(new Season("Октябрь", "Листочки опадают( ", R.drawable.autumn));
 
     }
